@@ -3,7 +3,7 @@ import java.util.*;
 public class LongestConsecutiveSequence {
     public static int longestConsecutive(int[] nums) {
         if (nums == null || nums.length == 0) {
-
+            return 0;
         }
         Set<Integer> set = new HashSet<>();
 
