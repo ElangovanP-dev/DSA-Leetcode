@@ -7,8 +7,8 @@ This repository contains my daily progress in solving LeetCode problems, organiz
 ## Repository Structure
 The project is organized into `Day-XX` folders, each containing the solution file for that specific day's challenge.
 
-- **Days 1-47**: Successfully solved and documented!
-- **Current Streak**: 47 Days 🔥
+- **Days 1-48**: Successfully solved and documented!
+- **Current Streak**: 48 Days 🔥
 
 ## Design Principles
 - **Clean Code**: All solutions are maintained without comments for a clean, professional viewing experience.
