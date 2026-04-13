@@ -8,7 +8,7 @@ class MaximumAverageSubarrayI {
         long sum = 0L;
         for (int i = 0; i < k; i++) {
             sum += nums[i];
-        }
+        }        
 
         long maxSum = sum;
 
