@@ -1,4 +1,4 @@
-class MinimumDistanceToTargetElement {
+public class MinimumDistanceToTargetElement {
     public static int getMinDistance(int nums[], int target, int start) {
         int minDis = Integer.MAX_VALUE;
         for (int i = 0; i < nums.length; i++) {
