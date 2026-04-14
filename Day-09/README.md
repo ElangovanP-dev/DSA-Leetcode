@@ -1,13 +1,12 @@
-﻿# Day 09 - Jump Game
+# Day 09 - 55. Jump Game
 
-## ðŸ§© Problem
-Determine if you can reach the last index starting from the first index.
+## 🧩 Problem
+Given an integer array nums, you are initially positioned at the first index. Each element represents your maximum jump length at that position. Determine if you can reach the last index.
 
-## ðŸ’¡ Approach
-- Track the farthest reachable index
-- For each position, check if it exceeds the farthest reach
-- If current index > farthest reachable, return false
+## 💡 Approach
+- Keep track of the furthest reachable index.
+- If current index > furthest reachable, then we can't reach the end.
 
-## â±ï¸ Complexity
+## ⏱️ Complexity
 - Time: O(n)
 - Space: O(1)

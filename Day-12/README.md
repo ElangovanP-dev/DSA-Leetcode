@@ -1,12 +1,13 @@
-﻿# Day 12 - Product Of Array Except Self
+# Day 12 - 380. Insert Delete GetRandom O(1)
 
-## ðŸ§© Problem
-Return array where each element is the product of all other elements (without using division).
+## 🧩 Problem
+Implement a data structure that supports insert, delete, and getRandom in O(1) time.
 
-## ðŸ’¡ Approach
-- First pass: calculate product of all elements left of current index
-- Second pass: multiply by product of all elements right of current index
+## 💡 Approach
+- Use a HashMap to store value-to-index mapping.
+- Use an ArrayList to store the actual values.
+- For deletion, swap the target element with the last element for O(1) removal.
 
-## â±ï¸ Complexity
-- Time: O(n)
-- Space: O(n)
+## ⏱️ Complexity
+- Time: O(1) for all operations.
+- Space: O(n).

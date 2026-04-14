@@ -1,13 +1,12 @@
-﻿# Day 11 - H-Index
+# Day 11 - 274. H-Index
 
-## ðŸ§© Problem
-Find the h-index where author has at least h papers with h citations each.
+## 🧩 Problem
+Given an array of citations, return the h-index (maximum value of h such that h papers have at least h citations).
 
-## ðŸ’¡ Approach
-- Sort citations in ascending order
-- For each position, check if citations[i] >= n - i
-- Return maximum valid h-index
+## 💡 Approach
+- Sort the array in descending order or use a bucket sort.
+- Iterate and find the last index where citations[i] >= i + 1.
 
-## â±ï¸ Complexity
-- Time: O(n log n)
-- Space: O(1)
+## ⏱️ Complexity
+- Time: O(n) using bucket sort, or O(n log n) with sorting.
+- Space: O(n) or O(1).

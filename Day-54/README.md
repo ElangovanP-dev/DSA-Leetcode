@@ -1,4 +1,4 @@
-# Day 54: Array & Hashing
+# Day 54 - 560. Subarray Sum Equals K
 
 ## Problems Solved
 

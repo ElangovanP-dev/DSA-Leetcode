@@ -1,12 +1,11 @@
-﻿# Day 08 - Best Time To Buy And Sell Stock II
+# Day 08 - 122. Best Time to Buy and Sell Stock II
 
-## ðŸ§© Problem
-Find maximum profit from multiple buy-sell transactions.
+## 🧩 Problem
+Find the maximum profit you can achieve by buying and selling the stock multiple times.
 
-## ðŸ’¡ Approach
-- Greedy: sum all positive differences between consecutive prices
-- Capture every uptrend as separate transactions
+## 💡 Approach
+- Greedy approach: If today's price is higher than yesterday's, add the difference to total profit.
 
-## â±ï¸ Complexity
+## ⏱️ Complexity
 - Time: O(n)
 - Space: O(1)

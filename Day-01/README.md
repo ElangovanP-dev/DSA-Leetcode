@@ -1,18 +1,12 @@
-﻿# Day 01 - Merge Sorted Array
+# Day 01 - 88. Merge Sorted Array
 
-## ðŸ§© Problem
-Merge two sorted arrays 
-ums1 and 
-ums2 into 
-ums1 in non-decreasing order, where 
-ums1 has enough space to hold all elements.
+## Problem
+Merge two sorted arrays nums1 and nums2 into nums1 in non-decreasing order.
 
-## ðŸ’¡ Approach
-- Copy all elements from 
-ums2 into the end of 
-ums1
+## Approach
+- Copy all elements from nums2 into the end of nums1
 - Sort the combined array using built-in sort
 
-## â±ï¸ Complexity
+## Complexity
 - Time: O((m + n) log(m + n))
 - Space: O(1)

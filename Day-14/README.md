@@ -1,13 +1,12 @@
-﻿# Day 14 - Fizz Buzz
+# Day 14 - 134. Gas Station
 
-## ðŸ§© Problem
-Return list of numbers 1 to n with "Fizz" for multiples of 3, "Buzz" for multiples of 5, "FizzBuzz" for both.
+## 🧩 Problem
+Find the starting gas station index from which you can travel the entire circuit.
 
-## ðŸ’¡ Approach
-- Iterate from 1 to n
-- Check divisibility conditions: 3 and 5, then 3, then 5
-- Add appropriate string to result list
+## 💡 Approach
+- Check if total gas >= total cost.
+- Greedy: If net gas at any point becomes negative, reset start to next station and current gas to 0.
 
-## â±ï¸ Complexity
+## ⏱️ Complexity
 - Time: O(n)
-- Space: O(n)
+- Space: O(1)

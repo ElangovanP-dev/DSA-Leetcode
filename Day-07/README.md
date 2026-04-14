@@ -1,13 +1,13 @@
-﻿# Day 07 - Best Time To Buy And Sell Stock
+# Day 07 - 121. Best Time to Buy and Sell Stock
 
-## ðŸ§© Problem
+## 🧩 Problem
 Find maximum profit from buying and selling a stock once.
 
-## ðŸ’¡ Approach
+## 💡 Approach
 - Track minimum price seen so far
 - For each price, calculate profit if selling at that price
 - Keep track of maximum profit
 
-## â±ï¸ Complexity
+## ⏱️ Complexity
 - Time: O(n)
 - Space: O(1)

@@ -1,12 +1,12 @@
-﻿# Day 13 - Length Of Last Word
+# Day 13 - 238. Product of Array Except Self
 
-## ðŸ§© Problem
-Return the length of the last word in a string.
+## 🧩 Problem
+Given an array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 
-## ðŸ’¡ Approach
-- Split string by spaces
-- Return length of last non-empty element
+## 💡 Approach
+- Use prefix and suffix products.
+- Store prefix products in the result array, then iterate backwards to multiply by suffix products.
 
-## â±ï¸ Complexity
+## ⏱️ Complexity
 - Time: O(n)
-- Space: O(n)
+- Space: O(1) (excluding result array).

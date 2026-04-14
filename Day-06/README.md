@@ -1,4 +1,4 @@
-﻿# Day 06 - Rotate Array
+# Day 06 - 189. Rotate Array
 
 ## ðŸ§© Problem
 Rotate array to the right by k steps.
