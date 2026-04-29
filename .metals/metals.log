@@ -1,0 +1,122 @@
+2026.04.29 19:40:03 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.29 19:40:06 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:40:11 WARN  no build tool detected in workspace 'C:\Users\elang\OneDrive\Desktop\DSA_LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.04.29 19:40:12 WARN  Build server is not auto-connectable.
+2026.04.29 19:40:12 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:40:12 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-45\RansomNote.java
+2026.04.29 19:40:12 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-22\PalindromeNumber.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-23\SearchRange.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-25\DivideIntegers.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-16\PlusOne.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-15\ContainsDuplicate.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-24\ReverseInteger.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-18\Sqrt.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-19\MaxSubarray.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-17\MissingNumber.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-10\JumpGameII.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-11\HIndex.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-12\ProductExceptSelf.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-47\ReverseString.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-13\LengthOfLastWord.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-06\RotateArray.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-07\BestTimeToBuyAndSellStock.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-14\FizzBuzz.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-08\BestTimeToBuyAndSellStockII.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-09\JumpGame.java
+2026.04.29 19:40:13 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-03\RemoveDuplicates.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-27\RomanToInteger.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-37\SortColors.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-01\MergeSortedArray.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-38\MaximumAverageSubarrayI.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-35\IntersectionOfTwoArrays.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-36\ContainerWithMostWater.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-20\PowerOfTwo.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-05\MajorityElement.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-46\RobotReturnToOrigin.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-41\FirstOccurrenceInString.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-21\AddDigits.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-02\RemoveElement.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-04\RemoveDuplicatesII.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-53\MinimumDistanceToTargetElement.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-60\FurthestPointFromOrigin.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-49\ValidParentheses.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-51\ValidAnagram.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-40\ClimbingStairs.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-39\NumberOfSubarrays.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-48\LongestConsecutiveSequence.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-42\SubstringsOfSizeThree.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-44\IsomorphicStrings.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-43\MaxAscendingSum.java
+2026.04.29 19:40:14 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-64\MinimumOperationsUniValueGrid.java
+2026.04.29 19:40:14 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:40:16 WARN  Running javac-semanticdb failed for file:///C:/Users/elang/OneDrive/Desktop/DSA_LeetCode/Day-65/LongestHarmoniousSubsequence.java. Output:
+
+2026.04.29 19:40:16 INFO  time: code lens generation in 4.58s
+2026.04.29 19:40:16 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:40:26 INFO  restarted 1 presentation compiler
+2026.04.29 19:40:42 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:41:04 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:41:08 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:41:08 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:41:09 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:41:10 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:41:16 WARN  Running javac-semanticdb failed for file:///C:/Users/elang/OneDrive/Desktop/DSA_LeetCode/Day-65/LongestHarmoniousSubsequence.java. Output:
+
+2026.04.29 19:41:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:41:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:41:21 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:41:21 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-39\NumberOfSubarrays.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-40\ClimbingStairs.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-48\LongestConsecutiveSequence.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-49\ValidParentheses.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-51\ValidAnagram.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-53\MinimumDistanceToTargetElement.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-04\RemoveDuplicatesII.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-02\RemoveElement.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-60\FurthestPointFromOrigin.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-41\FirstOccurrenceInString.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-46\RobotReturnToOrigin.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-05\MajorityElement.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-20\PowerOfTwo.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-21\AddDigits.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-35\IntersectionOfTwoArrays.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-36\ContainerWithMostWater.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-37\SortColors.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-03\RemoveDuplicates.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-01\MergeSortedArray.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-09\JumpGame.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-08\BestTimeToBuyAndSellStockII.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-07\BestTimeToBuyAndSellStock.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-06\RotateArray.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-14\FizzBuzz.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-13\LengthOfLastWord.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-47\ReverseString.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-12\ProductExceptSelf.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-11\HIndex.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-10\JumpGameII.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-19\MaxSubarray.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-18\Sqrt.java. Using fallback presentation compiler.
+2026.04.29 19:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-17\MissingNumber.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-16\PlusOne.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-15\ContainsDuplicate.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-25\DivideIntegers.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-24\ReverseInteger.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-23\SearchRange.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-22\PalindromeNumber.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-45\RansomNote.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-44\IsomorphicStrings.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-43\MaxAscendingSum.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-42\SubstringsOfSizeThree.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-38\MaximumAverageSubarrayI.java. Using fallback presentation compiler.
+2026.04.29 19:42:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-27\RomanToInteger.java. Using fallback presentation compiler.
+2026.04.29 19:42:52 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:42:52 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:42:52 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+Apr 29, 2026 7:42:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+2026.04.29 19:42:54 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:42:54 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
+2026.04.29 19:42:54 INFO  time: code lens generation in 2.06s
+2026.04.29 19:42:54 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-65\LongestHarmoniousSubsequence.java. Using fallback presentation compiler.
