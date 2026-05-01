@@ -13,4 +13,3 @@ class RotateFunction {
         return max;
     }
 }
-
