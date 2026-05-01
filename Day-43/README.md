@@ -1,13 +1,14 @@
 ﻿# Day 43 - Max Ascending Sum
 
-## ðŸ§© Problem
+## Problem
 Find the maximum sum of an ascending subarray.
 
-## ðŸ’¡ Approach
+## Approach
 - Greedy approach: accumulate sum while ascending
 - Reset sum when sequence breaks
 - Track maximum sum encountered
 
-## â±ï¸ Complexity
+## Complexity
 - Time: O(n)
 - Space: O(1)
+

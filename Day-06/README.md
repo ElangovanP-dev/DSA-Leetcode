@@ -1,13 +1,14 @@
-# Day 06 - 189. Rotate Array
+﻿# Day 06 - 189. Rotate Array
 
-## ðŸ§© Problem
+## Problem
 Rotate array to the right by k steps.
 
-## ðŸ’¡ Approach
+## Approach
 - Create temporary array to store rotated positions
 - Use modulo operator to calculate new positions: (i + k) % n
 - Copy back to original array
 
-## â±ï¸ Complexity
+## Complexity
 - Time: O(n)
 - Space: O(n)
+

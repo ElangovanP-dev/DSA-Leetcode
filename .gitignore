@@ -1,6 +1,5 @@
 *.class
 .vscode/
-.claude/
-.gemini/
 *.tmp
 temp/
+cleanup.ps1

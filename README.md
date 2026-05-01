@@ -1,24 +1,23 @@
-# DSA LeetCode Practice
+﻿# LeetCode Journey 🚀
 
-Welcome to my LeetCode Data Structures and Algorithms (DSA) training repository! 🚀
+My personal collection of LeetCode solutions, updated daily as I practice Data Structures and Algorithms.
 
-This repository contains my daily progress in solving LeetCode problems, organized by day. Each solution is implemented in Java and includes a `main` method for immediate local testing.
+## Progress
+- **Solved**: Day 1 to Day 67
+- **Language**: Java
+- **Focus**: Clean logic and efficient solutions.
 
-## Repository Structure
-The project is organized into `Day-XX` folders, each containing the solution file for that specific day's challenge.
+## Structure
+Each folder `Day-XX` contains:
+- A Java file with the solution and test cases.
+- A README with a brief explanation of the problem and approach.
 
-- **Days 1-67**: Successfully solved and documented!
-- **Current Streak**: 67 Days 🔥
-
-## Design Principles
-- **Clean Code**: All solutions are maintained without comments for a clean, professional viewing experience.
-- **Self-Contained**: Each Java file is a standalone solution with its own test cases.
-
-## How to Run
-To run any solution locally, navigate to the respective day's folder and use:
+## Running the code
 ```bash
-javac SolutionName.java
-java SolutionName
+javac Day-XX/SolutionName.java
+java Day-XX/SolutionName
 ```
 
-Happy Coding! 💻
+Happy Coding!
+
+

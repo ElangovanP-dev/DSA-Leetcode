@@ -1,4 +1,4 @@
-# Day 55 - 21. Merge Two Sorted Lists
+﻿# Day 55 - 21. Merge Two Sorted Lists
 
 ## 🧩 Problem
 You are given the heads of two sorted linked lists `list1` and `list2`. Merge the two lists in a one sorted list. The list should be made by splicing together the nodes of the first two lists. Return the head of the merged linked list.
@@ -12,3 +12,4 @@ You are given the heads of two sorted linked lists `list1` and `list2`. Merge th
 ## ⏱️ Complexity
 - **Time**: $O(n + m)$, where $n$ and $m$ are the lengths of `list1` and `list2`.
 - **Space**: $O(n + m)$ due to the recursion stack.
+

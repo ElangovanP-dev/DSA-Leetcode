@@ -1,4 +1,4 @@
-# Day 58: Two Furthest Houses With Different Colors
+﻿# Day 58: Two Furthest Houses With Different Colors
 
 ## 📝 Problem Description
 There are `n` houses evenly lined up on the street, and each house is beautifully painted. You are given a **0-indexed** integer array `colors` of length `n`, where `colors[i]` represents the color of the `i-th` house.
@@ -46,3 +46,4 @@ public class FurthestHousesWithDifferentColors {
     }
 }
 ```
+

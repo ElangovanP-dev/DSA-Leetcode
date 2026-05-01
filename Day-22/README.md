@@ -1,12 +1,13 @@
 ﻿# Day 22 - Palindrome Number
 
-## ðŸ§© Problem
+## Problem
 Determine if an integer is a palindrome.
 
-## ðŸ’¡ Approach
+## Approach
 - Extract digits with modulo and reverse the number
 - Compare original with reversed
 
-## â±ï¸ Complexity
+## Complexity
 - Time: O(log n)
 - Space: O(1)
+

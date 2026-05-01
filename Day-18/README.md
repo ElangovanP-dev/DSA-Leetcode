@@ -1,13 +1,14 @@
 ﻿# Day 18 - Sqrt(x)
 
-## ðŸ§© Problem
+## Problem
 Compute integer square root of x (floor value).
 
-## ðŸ’¡ Approach
+## Approach
 - Binary search between 1 and x
 - Find mid and compare midÂ² with x
 - Narrow search range based on comparison
 
-## â±ï¸ Complexity
+## Complexity
 - Time: O(log x)
 - Space: O(1)
+

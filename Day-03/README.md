@@ -1,4 +1,4 @@
-# Day 03 - 26. Remove Duplicates from Sorted Array
+﻿# Day 03 - 26. Remove Duplicates from Sorted Array
 
 ## 🧩 Problem
 Remove duplicate elements from a sorted array in-place and return the new length.
@@ -7,6 +7,7 @@ Remove duplicate elements from a sorted array in-place and return the new length
 - Two-pointer technique on sorted array
 - Move unique elements to the front, skip duplicates
 
-## â±ï¸ Complexity
+## Complexity
 - Time: O(n)
 - Space: O(1)
+

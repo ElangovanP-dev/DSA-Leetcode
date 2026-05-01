@@ -1,4 +1,4 @@
-# Day 05 - 169. Majority Element
+﻿# Day 05 - 169. Majority Element
 
 ## 🧩 Problem
 Given an array nums of size n, return the majority element (the element that appears more than n/2 times).
@@ -11,3 +11,4 @@ Given an array nums of size n, return the majority element (the element that app
 ## ⏱️ Complexity
 - Time: O(n)
 - Space: O(1)
+

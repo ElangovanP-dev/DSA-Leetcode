@@ -11,3 +11,4 @@ Find the index of the first occurrence of needle in haystack.
 ## Complexity
 - Time: O(n Ã— m)
 - Space: O(1)
+

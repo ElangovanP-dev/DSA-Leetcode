@@ -1,4 +1,4 @@
-# Day 61 - 482. Find Maximum Consecutive Ones
+﻿# Day 61 - 482. Find Maximum Consecutive Ones
 
 ## 🧩 Problem
 Given a binary array `nums`, return the maximum number of consecutive `1`s in the array.
@@ -12,3 +12,4 @@ Given a binary array `nums`, return the maximum number of consecutive `1`s in th
 ## ⏱️ Complexity
 - Time: O(n)
 - Space: O(1)
+

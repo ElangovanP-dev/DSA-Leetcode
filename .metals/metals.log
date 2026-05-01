@@ -3576,3 +3576,7 @@ WARNING: Unmatched cancel notification for request id 729
 2026.05.01 15:10:35 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-67\RotateFunction.java
 2026.05.01 15:10:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-67\RotateFunction.java. Using fallback presentation compiler.
 2026.05.01 15:10:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-67\RotateFunction.java. Using fallback presentation compiler.
+May 01, 2026 3:13:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+May 01, 2026 3:14:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

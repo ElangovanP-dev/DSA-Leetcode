@@ -1,13 +1,14 @@
 ﻿# Day 24 - Reverse Integer
 
-## ðŸ§© Problem
+## Problem
 Reverse digits of a 32-bit signed integer, return 0 if overflow.
 
-## ðŸ’¡ Approach
+## Approach
 - Extract digits using modulo operator
 - Rebuild number with reversed digits
 - Check for overflow before adding each digit
 
-## â±ï¸ Complexity
+## Complexity
 - Time: O(log n)
 - Space: O(1)
+

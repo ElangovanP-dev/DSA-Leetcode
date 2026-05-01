@@ -1,4 +1,4 @@
-# Day 01 - 88. Merge Sorted Array
+﻿# Day 01 - 88. Merge Sorted Array
 
 ## Problem
 Merge two sorted arrays nums1 and nums2 into nums1 in non-decreasing order.
@@ -10,3 +10,4 @@ Merge two sorted arrays nums1 and nums2 into nums1 in non-decreasing order.
 ## Complexity
 - Time: O((m + n) log(m + n))
 - Space: O(1)
+

@@ -1,12 +1,13 @@
 ﻿# Day 34 - Jewels And Stones
 
-## ðŸ§© Problem
+## Problem
 Count how many stones are jewels given a string of jewel types and stone types.
 
-## ðŸ’¡ Approach
+## Approach
 - Store jewel characters in a HashSet
 - Iterate through stones and count matches
 
-## â±ï¸ Complexity
+## Complexity
 - Time: O(m + n)
 - Space: O(m)
+

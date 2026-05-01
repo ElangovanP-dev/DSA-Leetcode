@@ -1,13 +1,14 @@
 ﻿# Day 47 - Reverse String
 
-## ðŸ§© Problem
+## Problem
 Reverse a character array in-place.
 
-## ðŸ’¡ Approach
+## Approach
 - Two pointers from both ends
 - Swap characters
 - Move pointers toward center
 
-## â±ï¸ Complexity
+## Complexity
 - Time: O(n)
 - Space: O(1)
+

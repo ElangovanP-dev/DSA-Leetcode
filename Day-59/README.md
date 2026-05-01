@@ -1,4 +1,4 @@
-# Day 59: Longest Continuous Increasing Subsequence
+﻿# Day 59: Longest Continuous Increasing Subsequence
 
 ## 📝 Problem Description
 Given an unsorted array of integers `nums`, return the length of the **longest continuous strictly increasing subsequence** (i.e., subarray).
@@ -44,3 +44,4 @@ class LongestContinuousSubsequence {
     }
 }
 ```
+

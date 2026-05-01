@@ -1,4 +1,4 @@
-# Day 56 - Mirror Of Integer
+﻿# Day 56 - Mirror Of Integer
 
 ## 🧩 Problem
 Find the absolute difference between a given integer and its mirror image (reversed integer).
@@ -12,3 +12,4 @@ Find the absolute difference between a given integer and its mirror image (rever
 ## ⏱️ Complexity
 - Time: O(log₁₀(n)) where n is the given integer, which represents the number of digits.
 - Space: O(1)
+

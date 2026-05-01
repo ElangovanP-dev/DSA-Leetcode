@@ -1,4 +1,4 @@
-# Day 57: Maximum Distance Between a Pair of Values
+﻿# Day 57: Maximum Distance Between a Pair of Values
 
 ## 📝 Problem Description
 Given two **non-increasing** integer arrays `nums1` and `nums2`, find the maximum distance `j - i` such that `i <= j` and `nums1[i] <= nums2[j]`.
@@ -41,3 +41,4 @@ public class MaximumDistanceBetweenPairValue {
     }
 }
 ```
+
