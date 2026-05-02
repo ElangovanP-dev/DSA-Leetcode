@@ -3580,3 +3580,442 @@ May 01, 2026 3:13:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 INFO: Unsupported notification method: $/setTrace
 May 01, 2026 3:14:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2026.05.01 15:29:58 INFO  Shutting down server
+2026.05.01 15:29:58 INFO  Memory monitor stopped
+2026.05.01 15:29:58 INFO  shutting down Metals
+2026.05.01 15:29:58 INFO  Exiting server
+2026.05.02 16:40:34 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\elang\OneDrive\Desktop\DSA_LeetCode' for client Antigravity 1.107.0.
+2026.05.02 16:40:34 INFO  time: initialize in 0.16s
+2026.05.02 16:40:34 INFO  Memory monitor started
+2026.05.02 16:40:42 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.05.02 16:40:44 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:40:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:40:56 WARN  no build tool detected in workspace 'C:\Users\elang\OneDrive\Desktop\DSA_LeetCode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.05.02 16:40:57 WARN  Build server is not auto-connectable.
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-38\MaximumAverageSubarrayI.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-42\SubstringsOfSizeThree.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-45\RansomNote.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-23\SearchRange.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-22\PalindromeNumber.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-24\ReverseInteger.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-16\PlusOne.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-15\ContainsDuplicate.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-25\DivideIntegers.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-17\MissingNumber.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-19\MaxSubarray.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-18\Sqrt.java
+2026.05.02 16:40:58 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-12\ProductExceptSelf.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-11\HIndex.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-10\JumpGameII.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-13\LengthOfLastWord.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-06\RotateArray.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-08\BestTimeToBuyAndSellStockII.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-47\ReverseString.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-14\FizzBuzz.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-09\JumpGame.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-01\MergeSortedArray.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-07\BestTimeToBuyAndSellStock.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-44\IsomorphicStrings.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-37\SortColors.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-46\RobotReturnToOrigin.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-03\RemoveDuplicates.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-36\ContainerWithMostWater.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-35\IntersectionOfTwoArrays.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-60\FurthestPointFromOrigin.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-48\LongestConsecutiveSequence.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-40\ClimbingStairs.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-21\AddDigits.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-28\LongestCommonPrefix.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-20\PowerOfTwo.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-39\NumberOfSubarrays.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-41\FirstOccurrenceInString.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-64\MinimumOperationsUniValueGrid.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-53\MinimumDistanceToTargetElement.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-51\ValidAnagram.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-02\RemoveElement.java
+2026.05.02 16:40:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-05\MajorityElement.java
+2026.05.02 16:41:00 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-43\MaxAscendingSum.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-27\RomanToInteger.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java
+2026.05.02 16:41:00 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-04\RemoveDuplicatesII.java
+2026.05.02 16:41:00 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:41:02 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:41:08 INFO  time: code lens generation in 11s
+2026.05.02 16:41:16 INFO  restarted 1 presentation compiler
+2026.05.02 16:41:25 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:41:56 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:41:56 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:41:56 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:41:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+May 02, 2026 4:41:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2026.05.02 16:41:57 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:41:58 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:09 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:18 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:20 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:22 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:42:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2026.05.02 16:42:27 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:29 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java
+2026.05.02 16:42:29 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:34 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:35 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java
+2026.05.02 16:42:34 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:37 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:37 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:37 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:37 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:40 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java
+2026.05.02 16:42:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:42 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:42 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:42:45 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-04\RemoveDuplicatesII.java. Using fallback presentation compiler.
+2026.05.02 16:42:45 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-02\RemoveElement.java. Using fallback presentation compiler.
+2026.05.02 16:42:45 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-05\MajorityElement.java. Using fallback presentation compiler.
+2026.05.02 16:42:45 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-20\PowerOfTwo.java. Using fallback presentation compiler.
+2026.05.02 16:42:45 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-28\LongestCommonPrefix.java. Using fallback presentation compiler.
+2026.05.02 16:42:45 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-39\NumberOfSubarrays.java. Using fallback presentation compiler.
+2026.05.02 16:42:45 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-40\ClimbingStairs.java. Using fallback presentation compiler.
+2026.05.02 16:42:45 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-48\LongestConsecutiveSequence.java. Using fallback presentation compiler.
+2026.05.02 16:42:45 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-21\AddDigits.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-51\ValidAnagram.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-53\MinimumDistanceToTargetElement.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-60\FurthestPointFromOrigin.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-64\MinimumOperationsUniValueGrid.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-41\FirstOccurrenceInString.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-46\RobotReturnToOrigin.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-35\IntersectionOfTwoArrays.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-36\ContainerWithMostWater.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-37\SortColors.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-03\RemoveDuplicates.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-01\MergeSortedArray.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-09\JumpGame.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-08\BestTimeToBuyAndSellStockII.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-07\BestTimeToBuyAndSellStock.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-06\RotateArray.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-14\FizzBuzz.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-13\LengthOfLastWord.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-47\ReverseString.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-12\ProductExceptSelf.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-11\HIndex.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-10\JumpGameII.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-19\MaxSubarray.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-18\Sqrt.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-17\MissingNumber.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-16\PlusOne.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-15\ContainsDuplicate.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-25\DivideIntegers.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-24\ReverseInteger.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-23\SearchRange.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-22\PalindromeNumber.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-45\RansomNote.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-44\IsomorphicStrings.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-43\MaxAscendingSum.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-42\SubstringsOfSizeThree.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-38\MaximumAverageSubarrayI.java. Using fallback presentation compiler.
+2026.05.02 16:43:19 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-27\RomanToInteger.java. Using fallback presentation compiler.
+2026.05.02 16:43:20 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:21 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java
+2026.05.02 16:43:20 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:20 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:21 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:20 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:20 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:20 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:20 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:20 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:22 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:22 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:23 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:24 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:26 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:28 INFO  no build target found for c:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\PascalsTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:28 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:28 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java
+2026.05.02 16:43:28 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:28 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:28 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:28 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:29 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:29 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:29 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:29 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:29 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:29 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:30 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:31 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:31 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 129
+2026.05.02 16:43:31 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:32 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:33 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  time: code lens generation in 2.07s
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 157
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 159
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 142
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 160
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 162
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 165
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 166
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 161
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 167
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 169
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 186
+May 02, 2026 4:43:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 187
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:35 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:36 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:37 INFO  time: code lens generation in 1.33s
+2026.05.02 16:43:37 INFO  time: code lens generation in 1.43s
+2026.05.02 16:43:37 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:37 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:37 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 203
+2026.05.02 16:43:37 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:37 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 208
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:39 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:38 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 230
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:40 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 240
+May 02, 2026 4:43:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 242
+2026.05.02 16:43:41 INFO  time: code lens generation in 1.15s
+2026.05.02 16:43:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:42 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:41 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 245
+2026.05.02 16:43:43 INFO  time: code lens generation in 1.3s
+May 02, 2026 4:43:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 249
+May 02, 2026 4:43:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 250
+May 02, 2026 4:43:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 251
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  time: code lens generation in 1.56s
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:43 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:44 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:44 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:44 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:44 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:44 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:44 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:44 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:44 INFO  time: code lens generation in 1.36s
+2026.05.02 16:43:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:43:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 284
+2026.05.02 16:43:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:46 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:47 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:47 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:47 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:47 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:47 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:47 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:48 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:48 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:48 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:48 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:52 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:53 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:53 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:55 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:55 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:56 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:56 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:56 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:56 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:57 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:57 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:57 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:59 INFO  time: code lens generation in 2.42s
+2026.05.02 16:43:59 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:43:59 WARN  no build target for: C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java
+2026.05.02 16:44:01 INFO  Created report: Optional[file:///C:/Users/elang/OneDrive/Desktop/DSA_LeetCode/Day-68/Pascal'sTriangle.java]
+2026.05.02 16:44:01 INFO  empty definition using pc, found symbol in pc: java/util/List#add(). (full report at: "C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\.metals\.reports\metals-full\2026-05-02\r_empty-definition_16-44-00-478.md")
+May 02, 2026 4:44:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 325
+2026.05.02 16:44:01 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:44:01 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:44:01 INFO  Created report: Optional[file:///C:/Users/elang/OneDrive/Desktop/DSA_LeetCode/Day-68/Pascal'sTriangle.java]
+2026.05.02 16:44:01 INFO  empty definition using pc, found symbol in pc: java/lang/Integer# (full report at: "C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\.metals\.reports\metals-full\2026-05-02\r_empty-definition_16-44-01-505.md")
+2026.05.02 16:44:01 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+May 02, 2026 4:44:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 329
+May 02, 2026 4:44:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 326
+May 02, 2026 4:44:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 331
+2026.05.02 16:44:01 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
+2026.05.02 16:44:01 INFO  no build target found for C:\Users\elang\OneDrive\Desktop\DSA_LeetCode\Day-68\Pascal'sTriangle.java. Using fallback presentation compiler.
